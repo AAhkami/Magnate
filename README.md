@@ -1,1 +1,2 @@
 # Magnate
+fantastic web site
